@@ -21,6 +21,8 @@ This project utilizes a strict "Test-Driven Deployment" strategy.
 ## 🔗 Live API Endpoint
 You can view the live, automated deployment here: 
 👉 https://serverless-cicd-project.vercel.app/api
+### 📸 Pipeline Success
+![CI/CD Pipeline Success](pipeline.png)
 
 ## 💻 How to Run and Test Locally
 If you want to pull this code and test the CI phase locally on your machine:
