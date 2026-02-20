@@ -19,8 +19,8 @@ This project utilizes a strict "Test-Driven Deployment" strategy.
 4. **Continuous Deployment (CD):** If all tests pass, the pipeline securely authenticates with Vercel using encrypted GitHub Secrets (`VERCEL_TOKEN`, `VERCEL_ORG_ID`, `VERCEL_PROJECT_ID`) and deploys the new serverless function automatically.
 
 ## 🔗 Live API Endpoint
-You can view the live, automated deployment here:
-👉 https://https://serverless-cicd-project.vercel.app/api.vercel.app/api
+You can view the live, automated deployment here: 
+👉 https://serverless-cicd-project.vercel.app/api
 
 ## 💻 How to Run and Test Locally
 If you want to pull this code and test the CI phase locally on your machine:
